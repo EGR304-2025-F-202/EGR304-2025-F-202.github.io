@@ -5,13 +5,14 @@ tags:
 - tag2
 ---
 <center>
-<font size="8">Project Name<br>
-<font size="5">Team ###<br>
-**Submission: month, DD, YYYY**<br>
-Semester and Year<br>
+<font size="8">Team Organization, Charter, and Repository<br>
+<font size="5">Team 202<br>
+<font size="5">Damian Novgorodov, Liam Ryan, Mohammed Ali D Alqarni, Vedaa Ubale
+**Submission: September, 5, 2025**<br>
+Fall 2025<br>
 <font size="4">Arizona State University<br>
 **EGR 304**<br>
-Professor Name<br>
+Kevin Nichols<br>
   
 
 </center>
@@ -26,7 +27,7 @@ Professor Name<br>
 
 | **Team Member**        |**Ind Datasheet Links** |
 | ---------------------- | -----------------------|
-| Damian Novgorodov      | [JohnDoe.GitHub](https://embedded-systems-design.github.io/EGR304DataSheetTemplate/) |
+| John Doe               | [JohnDoe.GitHub](https://embedded-systems-design.github.io/EGR304DataSheetTemplate/) |
 | Name #2                | link |
 | Name #3                | link |
 | Name #4                | link |
