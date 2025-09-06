@@ -69,7 +69,7 @@ _**Table Legend for Appendix Table 2**_
 ## Meeting Coordination
 
 1. What method will you use to remind yourselves of meetings (a shared calendar?)
-Group chat.
+<br>Group chat.
 
 2. How will your team go about changing or adding meeting times?
 Discussion and consensus.
