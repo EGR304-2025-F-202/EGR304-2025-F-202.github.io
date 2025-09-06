@@ -95,7 +95,7 @@ The roles in the above table all seem fair, so we will just leave them as that.
 
 ## Conflict Recognition & Resolution
 
-I am sure we will likely not have conflicts, but if we do, I am sure we will just be able to talk them out.
+If any conflicts arise. We will schedule an in-person meeting outside of class with all of the team members. We will then discuss our conflict and come up with a resolution that allows us to continue to function as a team. Any resolutions made will be added to our Team Organization Appendix.
 
 ## Signatures
 
