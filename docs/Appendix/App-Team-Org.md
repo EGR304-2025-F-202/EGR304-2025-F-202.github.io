@@ -7,7 +7,11 @@ tags:
 
 ## Team Goals
 
-List at least five shared goals that reflect a successful product with regard to EGR3X4. Focus on team / product goals that are deeper than "getting an A".
+1.) Collaboration among team members
+2.) Designing a device that will have practical impact
+3.) Gain experience using sensors and PCBs
+4.) Delivering a device that is operational
+5.) Coming up with creative solutions to solve problems
 
 ## Communication Channels
 
@@ -15,19 +19,21 @@ _**Appendix Table 1**: Team Member Communication Modes_
 
 |Name                 | First Choice Communication | Second Choice Communication | Third Choice Communication |
 |---------------------|----------------------------|-----------------------------|----------------------------|
-|Member 1 |  ? | ? | ? |
-|Member 2 |  ? | ? | ? |
-|Member 3 |  ? | ? | ? |
-|Member 4 |  ? | ? | ? |
+|Damian Novgorodov |  Text | In-person | Call |
+|Liam Ryan |  Text | In-person | Call |
+|Mohammed Ali D Alqarni |  Text | In-person | Call |
+|Vedaa Ubale |  Text | In-person | Call |
 
 ### Main Method for Group Communication
 
-Based on the information provided on in the "Team Member Communication Modes," the group primary method of communication is ......
+Based on the information provided on in the "Team Member Communication Modes," the group primary method of communication is TEXT.
  
 ## Communication Procedures
 
-1. How will your team communicate?
+1. How will your team communicate? Through text.
 2. How will you handle instructor correspondence? Who is responsible? How will that be communicated with/back to the group?
+   We will handle instructor correspondence however necessary, whether that be through email, in-person during class time, etc.
+   Everyone in the group is responsible. It will be communicated by us sharing what was told to us in a group chat.
 
 ## Meeting Schedule
 
@@ -35,37 +41,44 @@ _**Appendix Table 2**: Weekly Schedule_
 
 | Time | Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
 | :------: | :----: | :----: | :----: | :----: | :----: | :----: | :-----: |
-| 8:00 AM | - | - | M | - | M | - | - |
-| 9:00 AM | - | F | M | - | M | - | - |
-| 10:00 AM | - | B | M | - | M | - | - |
-| 11:00 AM | - | B | M | - | M | - | - |
-| 12:00 PM | Z | B, Z | M | - | M | - | - |
-| 1:00 PM | Z, F |  | M | - | M | - | - |
-| 2:00 PM | Z, F | - | M | - | M | - | - |
-| 3:00 PM | Z | - | M | - | M | - | - |
-| 4:00 PM | - | - | M | - | M | - | - |
-| 5:00 PM | - | - | M | - | M | - | - |
-| 6:00 PM | - | - | M | - | M | - | - |
-| 7:00 PM | - | - | M | - | M | - | - |
-| 8:00 PM | - | - | M | - | M | - | - |
-| 9:00 PM | - | - | M | - | M | - | - |
+| 8:00 AM | - | - | - | - | - | - | - |
+| 9:00 AM | - | - | - | - | - | - | - |
+| 10:00 AM | - | - | - | M | - | - | - |
+| 11:00 AM | - | L | M | M | L | - | - |
+| 12:00 PM | V | - | L | M | - | - | - |
+| 1:00 PM | L | V | - | - | V | - | L |
+| 2:00 PM | M | V | - | L | V | M | - |
+| 3:00 PM | D | - | - | D | D | - | L |
+| 4:00 PM | M,V,L,D | M,V,L,D | M,V,L,D | M,V,L,D | M,V,L,D | M,V,L,D | M,V,L,D |
+| 5:00 PM | M,V,L,D | M,V,L,D | M,V,L,D | M,V,L,D | M,V,L,D | M,V,L,D | M,V,L,D |
+| 6:00 PM | M,V,L,D | M,V,L,D | M,V,L,D | M,V,L,D | M,V,L,D | M,V,L,D | M,V,L,D |
+| 7:00 PM | D | D,V | D,L,V | D,M,L | D,M | D | D |
+| 8:00 PM | D | D,V | D,L,V | D,M,L | D,M | D | D |
+| 9:00 PM | D | D,V | D,L,V | D,M,L | D,M | D | D |
 
 _**Table Legend for Appendix Table 2**_
 
 | Name | Abbreviation |
 | ----- | :------: |
-| Bill | B |
-| Mary | M |
-| Zane | Z |
-| Felicity | F |
+| Damian | D |
+| Liam | L |
+| Mohammed | M |
+| Vedaa | V |
 
 
 ## Meeting Coordination
 
 1. What method will you use to remind yourselves of meetings (a shared calendar?)
-1. How will your team go about changing or adding meeting times?
-1. What's the preferred format for meetings (face-to-face or virtually)?
-1. Are there any other procedures that your team feels are necessary?
+Group chat.
+
+2. How will your team go about changing or adding meeting times?
+Discussion and consensus.
+
+3. What's the preferred format for meetings (face-to-face or virtually)?
+Depends on how much work needs to be done and what kind of work (e.g. just paperwork or actual building/designing)
+
+4. Are there any other procedures that your team feels are necessary?
+As of right now, no.
 
 ## Roles & Responsibilities
 
@@ -78,12 +91,16 @@ _**Appendix Table 2**: Project Roles and Duties_
 | Assignment leader | Coordinates the team's work on a given assignment to Canvas before the due date                                                           |
 | Project monitor   | Tracks the team's progress relative to the project schedule (Gantt chart) and keeps team members apprised of deadlines and project status |
 
+The roles in the above table all seem fair, so we will just leave them as that.
+
 ## Conflict Recognition & Resolution
 
-Need to add content!!
-
+I am sure we will likely not have conflicts, but if we do, I am sure we will just be able to talk them out.
 
 ## Signatures
 
-Need to add content!!
+Damian Novgorodov
+Liam Ryan
+Mohammed Ali D Alqarni
+Vedaa Ubale
 
