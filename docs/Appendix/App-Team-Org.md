@@ -30,10 +30,10 @@ Based on the information provided on in the "Team Member Communication Modes," t
  
 ## Communication Procedures
 
-1. How will your team communicate? Through text.
+1. How will your team communicate? 
+<br>Through text.
 2. How will you handle instructor correspondence? Who is responsible? How will that be communicated with/back to the group?
-   We will handle instructor correspondence however necessary, whether that be through email, in-person during class time, etc.
-   Everyone in the group is responsible. It will be communicated by us sharing what was told to us in a group chat.
+<br>We will handle instructor correspondence by discussing in our group chat within 12 hours of the professor's correspondence. Lia will be responsible for the correspondence and will communicate back to the group through forwarded emails and group chat.
 
 ## Meeting Schedule
 
@@ -69,16 +69,16 @@ _**Table Legend for Appendix Table 2**_
 ## Meeting Coordination
 
 1. What method will you use to remind yourselves of meetings (a shared calendar?)
-<br>Group chat.
+<br>We will used a group chat and a shared calendar to remind ourselves of meetings.
 
 2. How will your team go about changing or adding meeting times?
-Discussion and consensus.
+<br>We will discuss any requested changes in the group chat and if we can not come to a consensus then we will try to meet with the majority of group members.
 
 3. What's the preferred format for meetings (face-to-face or virtually)?
-Depends on how much work needs to be done and what kind of work (e.g. just paperwork or actual building/designing)
+<br>Our preffered format is in person. We will use Zoom if there is not any physical work required.
 
 4. Are there any other procedures that your team feels are necessary?
-As of right now, no.
+<br>Currently, there are not.
 
 ## Roles & Responsibilities
 
@@ -99,8 +99,8 @@ If any conflicts arise. We will schedule an in-person meeting outside of class w
 
 ## Signatures
 
-Damian Novgorodov
-Lia Ryan
-Mohammed Ali D Alqarni
+Damian Novgorodov <br>
+Lia Ryan <br>
+Mohammed Ali D Alqarni <br>
 Vedaa Ubale
 
