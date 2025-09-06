@@ -7,7 +7,7 @@ tags:
 <center>
 <font size="8">Team Organization, Charter, and Repository<br>
 <font size="5">Team 202<br>
-<font size="5">Damian Novgorodov, Liam Ryan, Mohammed Ali D Alqarni, Vedaa Ubale
+<font size="5">Damian Novgorodov, Liam Ryan, Mohammed Ali D Alqarni, Vedaa Ubale<br>
 **Submission: September, 5, 2025**<br>
 Fall 2025<br>
 <font size="4">Arizona State University<br>
