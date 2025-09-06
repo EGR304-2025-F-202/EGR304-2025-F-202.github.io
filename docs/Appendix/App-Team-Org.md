@@ -7,10 +7,10 @@ tags:
 
 ## Team Goals
 
-1.) Collaboration among team members
-2.) Designing a device that will have practical impact
-3.) Gain experience using sensors and PCBs
-4.) Delivering a device that is operational
+1.) Collaboration among team members<br>
+2.) Designing a device that will have practical impact<br>
+3.) Gain experience using sensors and PCBs<br>
+4.) Delivering a device that is operational<br>
 5.) Coming up with creative solutions to solve problems
 
 ## Communication Channels
