@@ -20,7 +20,7 @@ _**Appendix Table 1**: Team Member Communication Modes_
 |Name                 | First Choice Communication | Second Choice Communication | Third Choice Communication |
 |---------------------|----------------------------|-----------------------------|----------------------------|
 |Damian Novgorodov |  Text | In-person | Call |
-|Liam Ryan |  Text | In-person | Call |
+|Lia Ryan |  Text | In-person | Call |
 |Mohammed Ali D Alqarni |  Text | In-person | Call |
 |Vedaa Ubale |  Text | In-person | Call |
 
@@ -61,7 +61,7 @@ _**Table Legend for Appendix Table 2**_
 | Name | Abbreviation |
 | ----- | :------: |
 | Damian | D |
-| Liam | L |
+| Lia | L |
 | Mohammed | M |
 | Vedaa | V |
 
@@ -100,7 +100,7 @@ I am sure we will likely not have conflicts, but if we do, I am sure we will jus
 ## Signatures
 
 Damian Novgorodov
-Liam Ryan
+Lia Ryan
 Mohammed Ali D Alqarni
 Vedaa Ubale
 
