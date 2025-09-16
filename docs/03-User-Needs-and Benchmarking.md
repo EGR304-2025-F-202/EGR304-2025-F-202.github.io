@@ -5,86 +5,23 @@ tags:
 - tag2
 ---
 
-## Et poposcerat rursus ad magnus premit
+## What are we trying to accomplish?
 
-Lorem markdownum gradus, qui largis, nec pater pleno: fatum. Adspexit cursus
-cur, aut in adhuc crimina **habebat**: pro.
+We are trying to build a smart trash system that will help users use their trash can hands free, while sealing in the smells and preventing flies or other insects from getting into the trash. We also want to notify users when the trash can is full without opening the lid and when the trash is almost too heavy for a normal trash bag to handle. 
 
-- Et ducimus
-- Prosecta hinc nix vidi rettulit cum sitim
-- Has in tonitribus tenebrae Romane mirantum resupina
-- Figuras et dextram
 
-## Esse quoque sedem plena nunc iecur
+## What is the community we are trying to serve?
 
-Possemque suos dumque. Deum recta rogantem, inquinat facta gigantas; ego nisi
-mea. Nec tamen quae gravem, potens, [cognoscendo
-scripta](http://vidit-lumine.io/sinusdeum). *Nihil ventis Aeneae* probat.
+We are trying to serve those who have a hard time opening a trash can lid and throwing trash in with the other, such as elderly people or busy parents. We also want to prevent food waste from sitting in the can for too long to start rotting and attracting flies. 
 
-1. listum primo
+## Search used to find existing products
 
-    discusso el codex:
+[Amazon Smart Trash can search](https://www.amazon.com/smart-trash-can/s?k=smart%20trash%20can)
 
-        if (pimProgressiveMashup(recursive_upnp_barcraft, seo) == file.station_leaf(
-                optical + 1, compact_docking)) {
-            rt_programming_system(udpScraping, marketRegularMetal,
-                    threadingNuiRoom);
-            vlogVaporwarePage += 5 + xhtmlDiskReader;
-            access.kbps_footer.dialogZettabyte(3, cloud_midi_spoofing, ipad_macro);
-        }
-        if (maskProcessorKbps(programming, user, cache_web) >= file *
-                publishingDual) {
-            hibernate.flash_network -= 4;
-            bar = goodput_flash;
-            streaming = voip_flatbed - 1;
-        } else {
-            clipCd(jquery, 55 - -1, touchscreen);
-            plagiarism_command_e = cleanHardIcio;
-            recursion = checksum;
-        }
-        clock(roomCaptcha, 2);
+## Items used 
+[Vanpopubs Can](https://www.amazon.com/Vanpopubs-Bathroom-Automatic-Touchless-Waterproof/dp/B0DBLMHFJ8/ref=sr_1_5?dib=eyJ2IjoiMSJ9.37qDhiG8Ui1BT5x4twhFVKvs_zirNSUWUo261hQTZUS2GMaIs7s8V_cVWJzntM5vjI8lAJAB0jaMBfBICzLU9uhDWfSDKq861O9gc-pWOLous5ulPIcIF2gv805u4K8YjxMWFgo8mq_dZrFOEFigaFXRGbDJw08qQwptUV1iEXql1Au7OeBASmo9eEx_4xaYVK5TVK_y6gjSgmhpuHBRgwZYB6cxV3HBjLmcbxR7Zh8hIVsnkWsJgk4NZumj3DUEDpRrV8wz41bIWCG6UgiZVz5A8P1YxtMDiwSLhAWRT0A.xvKwZ5rJw0NkTCn6T0rFZTCoAs7VWkUBLgU6B7Hi9QE&dib_tag=se&keywords=smart%2Btrash%2Bcan&qid=1757999102&sr=8-5&th=1)<br>
+[EKO Mirage Can](http://amazon.com/EKO-Mirage-T-Rectangular-Brushed-Stainless/dp/B07RYBNJG3/ref=sr_1_6?dib=eyJ2IjoiMSJ9.37qDhiG8Ui1BT5x4twhFVKvs_zirNSUWUo261hQTZUS2GMaIs7s8V_cVWJzntM5vjI8lAJAB0jaMBfBICzLU9uhDWfSDKq861O9gc-pWOLous5ulPIcIF2gv805u4K8YjxMWFgo8mq_dZrFOEFigaFXRGbDJw08qQwptUV1iEXql1Au7OeBASmo9eEx_4xaYVK5TVK_y6gjSgmhpuHBRgwZYB6cxV3HBjLmcbxR7Zh8hIVsnkWsJgk4NZumj3DUEDpRrV8wz41bIWCG6UgiZVz5A8P1YxtMDiwSLhAWRT0A.xvKwZ5rJw0NkTCn6T0rFZTCoAs7VWkUBLgU6B7Hi9QE&dib_tag=se&keywords=smart+trash+can&qid=1757999102&sr=8-6)<br>
+[iTouchless Can](https://www.amazon.com/iTouchless-Pet-Proof-Prevents-Stainless-PetGuard/dp/B07Y2CDS89)<br>
+[Best Office Can](http://amazon.com/Can-Gallon-Automatic-Garbage-High-Capacity/dp/B018LNFQWE/ref=sr_1_8?dib=eyJ2IjoiMSJ9.37qDhiG8Ui1BT5x4twhFVKvs_zirNSUWUo261hQTZUS2GMaIs7s8V_cVWJzntM5vjI8lAJAB0jaMBfBICzLU9uhDWfSDKq861O9gc-pWOLous5ulPIcIF2gv805u4K8YjxMWFgo8mq_dZrFOEFigaFXRGbDJw08qQwptUV1iEXql1Au7OeBASmo9eEx_4xaYVK5TVK_y6gjSgmhpuHBRgwZYB6cxV3HBjLmcbxR7Zh8hIVsnkWsJgk4NZumj3DUEDpRrV8wz41bIWCG6UgiZVz5A8P1YxtMDiwSLhAWRT0A.xvKwZ5rJw0NkTCn6T0rFZTCoAs7VWkUBLgU6B7Hi9QE&dib_tag=se&keywords=smart+trash+can&qid=1757999102&sr=8-8)<br>
+[Ninestars Can](http://amazon.com/NINESTARS-DZT-50-28-Automatic-Touchless-Rectangular/dp/B06ZYKBF2Z/ref=sr_1_9?dib=eyJ2IjoiMSJ9.37qDhiG8Ui1BT5x4twhFVKvs_zirNSUWUo261hQTZUS2GMaIs7s8V_cVWJzntM5vjI8lAJAB0jaMBfBICzLU9uhDWfSDKq861O9gc-pWOLous5ulPIcIF2gv805u4K8YjxMWFgo8mq_dZrFOEFigaFXRGbDJw08qQwptUV1iEXql1Au7OeBASmo9eEx_4xaYVK5TVK_y6gjSgmhpuHBRgwZYB6cxV3HBjLmcbxR7Zh8hIVsnkWsJgk4NZumj3DUEDpRrV8wz41bIWCG6UgiZVz5A8P1YxtMDiwSLhAWRT0A.xvKwZ5rJw0NkTCn6T0rFZTCoAs7VWkUBLgU6B7Hi9QE&dib_tag=se&keywords=smart+trash+can&qid=1757999102&sr=8-9)<br>
 
-2. listum secundum
-
-    > warningum alertum
-
-3. listum adnauseum
-
-## Pondus ante Ialysios vultu exasperat loqui sanguine
-
-Iacere non, quis nimbis. Dumque tibi minora clamabat contigit vacant, sepulcro
-coniugis quae; mihi! Solent adeste faventibus, perque penates, currere in quater
-Odrysius ferro, vota, vero mittat crinibus, quae. Hanc mundi, ipse vultu voce
-sub quae heros forsitan imagine in tecum Cephalus? Formosissimus vela; vapore
-oris, aera, utendum ostendisse regnum Centaurorum elice.
-
-    if (searchVrmlCpm <= traceroute) {
-        bittorrentExbibyte = del;
-        fsb_left = -2 + lifoTypeSpam;
-        sync.bcc(errorAtm(66, boot, link), meta_personal_hdd, leak.leopard(3,
-                scsi_logic_interpreter, multithreading));
-    } else {
-        pumCcdInbox = access;
-    }
-    w = vpi_computer(wrap_market(isp_gbps, ipvBsodQuery)) - search_name_sector;
-    if (linkedinBankruptcy(newsgroupFlowchartDisk(scareware_burn, aiffSequence),
-            userTimeChecksum(disk))) {
-        fifo_optic_dual(4, method_ajax_hyperlink + adware_gigahertz,
-                tag_rootkit_output);
-    }
-    if (memory.fsb(client_template, typeface_memory_bridge) < newbie_socket_gif(
-            storageModemDrive, kilohertz_yottabyte_middleware)) {
-        dimm.dvd_character.hover(hibernate);
-        exif = unmountVirusRss * 5;
-    } else {
-        localhost_adapter += character_olap_white;
-        subnet(internal_dongle + card);
-    }
-    var hibernateAlert = formatCmsCompression(1 / and_tcp + 5);
-
-Miserande evanida amanti, succiduo, dare mihi quid amnis venit Rhadamanthus.
-Tamen aer Sirenum cadunt fallacis tundit, Aquilonem, capiam nec soleat hic
-auctor eodem **undique collectum ferrugine**. Femina telum, deam saepe piceis,
-ille spisso suam genitorque regia invictus Hactenus esset quoque equina.
-Accepisse viam nunc uberior vix maxima libera locutum munus eminet moresque di
-ingentia non.
