@@ -124,3 +124,141 @@ Negative reviews:
 2. "After about a year, the motor on ours started wearing out. The lid now only opens halfway, and it’s clearly struggling. The size and look are fine, but it’s disappointing how quickly the mechanical parts gave out.".
 
 3. "This trash can is honestly infuriating. The sensor reacts way too fast. it snaps shut before you can toss anything in. And if you use it twice in a row, it locks up and won’t open for 20 seconds. I regret not going with a better model."
+
+## User Needs
+
+# Priority 1 – Reliability & Longevity
+**Meta Need:** **The device operates consistently and durably over its entire lifespan.**
+
+| #  | User Need                                                       | Explicit/Latent |
+|----|-----------------------------------------------------------------|----------------|
+| 1  | Device should resist clogging during regular use.              | Explicit       |
+| 2  | Device should continue functioning after prolonged use.        | Explicit       |
+| 3  | Device should function longer than a few months.               | Explicit       |
+| 4  | Device should resist breakdown when used outdoors.             | Latent         |
+| 5  | Device should not jam when exposed to larger waste.            | Explicit       |
+| 6  | Device should resist mechanical failures over time.            | Explicit       |
+| 7  | Device should withstand frequent cleaning.                     | Latent         |
+| 8  | Device should function without frequent repair.               | Latent         |
+| 9  | Device should remain stable in outdoor environments.           | Latent         |
+| 10 | Device should maintain integrity when wet.                     | Latent         |
+| 11 | Device should resist damage from chewing (by pets).            | Latent         |
+| 12 | Device should not degrade when exposed to sunlight.           | Latent         |
+| 13 | Device should withstand repeated assembly/disassembly.         | Latent         |
+| 14 | Device should remain functional when dropped.                  | Latent         |
+| 15 | Device should maintain performance despite rough handling.     | Latent         |
+| 16 | Device should withstand temperature fluctuations.              | Latent         |
+| 17 | Device should resist wear from repeated movement.              | Latent         |
+| 18 | Device should not weaken at moving parts.                      | Latent         |
+| 19 | Device should resist corrosion outdoors.                        | Latent         |
+| 20 | Device should remain reliable during travel use.              | Latent         |
+
+# Priority 2 – Hygiene & Odor Control
+**Meta Need:** **The device maintains a clean and sanitary environment while containing waste effectively.**
+
+| #  | User Need                                                       | Explicit/Latent |
+|----|-----------------------------------------------------------------|----------------|
+| 21 | Device should control odor effectively.                        | Explicit       |
+| 22 | Device should reduce lingering odors after use.                | Explicit       |
+| 23 | Device should not retain unpleasant smells.                   | Latent         |
+| 24 | Device should prevent waste spillage.                          | Explicit       |
+| 25 | Device should contain waste securely until disposal.           | Explicit       |
+| 26 | Device should isolate waste from user’s hands.                 | Latent         |
+| 27 | Device should resist contamination during handling.            | Latent         |
+| 28 | Device should allow easy sanitization.                         | Latent         |
+| 29 | Device should resist bacterial buildup.                        | Latent         |
+| 30 | Device should support use of biodegradable liners.            | Latent         |
+| 31 | Device should not spread waste outside the container.          | Latent         |
+| 32 | Device should minimize contact with waste.                     | Latent         |
+| 33 | Device should prevent leakage from waste storage.              | Explicit       |
+| 34 | Device should reduce odor when carrying filled bags.           | Latent         |
+| 35 | Device should remain clean after multiple uses.                | Explicit       |
+| 36 | Device should not absorb odors into its material.              | Latent         |
+| 37 | Device should allow thorough rinsing.                          | Latent         |
+| 38 | Device should dry quickly after cleaning.                      | Latent         |
+| 39 | Device should resist mold growth.                               | Latent         |
+| 40 | Device should allow disposal without direct handling.          | Latent         |
+
+# Priority 3 – Ease of Use & Convenience
+**Meta Need:** **The device is intuitive, fast, and requires minimal effort to operate.**
+
+| #  | User Need                                                       | Explicit/Latent |
+|----|-----------------------------------------------------------------|----------------|
+| 41 | Device should be simple to use.                                | Explicit       |
+| 42 | Device should work with minimal steps.                         | Latent         |
+| 43 | Device should avoid complicated mechanisms.                    | Latent         |
+| 44 | Device should allow single-hand operation.                     | Latent         |
+| 45 | Device should reduce time spent cleaning.                      | Latent         |
+| 46 | Device should not require user to bend excessively.            | Latent         |
+| 47 | Device should avoid spilling during use.                       | Latent         |
+| 48 | Device should not create a mess.                                | Explicit       |
+| 49 | Device should allow quick deployment outdoors.                 | Latent         |
+| 50 | Device should not require frequent reassembly.                 | Latent         |
+| 51 | Device should require minimal instruction.                      | Latent         |
+| 52 | Device should work without batteries if possible.              | Latent         |
+| 53 | Device should avoid frequent bag changes.                       | Latent         |
+| 54 | Device should reduce maintenance time.                          | Latent         |
+| 55 | Device should avoid frustrating jams.                           | Explicit       |
+| 56 | Device should minimize user effort.                             | Latent         |
+| 57 | Device should be intuitive to operate.                          | Explicit       |
+| 58 | Device should not require technical knowledge.                 | Latent         |
+| 59 | Device should save time during walks.                            | Latent         |
+| 60 | Device should allow quick setup.                                 | Explicit       |
+
+# Priority 4 – Portability & Storage
+**Meta Need:** **The device is compact, lightweight, and easy to transport or store.**
+
+| #  | User Need                                                       | Explicit/Latent |
+|----|-----------------------------------------------------------------|----------------|
+| 61 | Device should be lightweight.                                   | Explicit       |
+| 62 | Device should be small enough for storage.                      | Explicit       |
+| 63 | Device should attach easily to a leash.                         | Latent         |
+| 64 | Device should fit into a bag or backpack.                       | Latent         |
+| 65 | Device should be portable for travel.                           | Latent         |
+| 66 | Device should be compact for home storage.                      | Explicit       |
+| 67 | Device should avoid bulky design.                                | Latent         |
+| 68 | Device should be easy to carry with other items.                | Latent         |
+| 69 | Device should be balanced in weight.                             | Latent         |
+| 70 | Device should not add significant bulk during walks.            | Latent         |
+| 71 | Device should remain effective in portable form.               | Latent         |
+| 72 | Device should not hinder other activities.                     | Latent         |
+| 73 | Device should store neatly indoors.                              | Explicit       |
+| 74 | Device should avoid taking up too much space in cars.           | Latent         |
+| 75 | Device should be easy to clip on/off.                            | Latent         |
+| 76 | Device should remain stable when attached to belt or leash.    | Latent         |
+| 77 | Device should not be heavier than standard scoopers.            | Latent         |
+| 78 | Device should fold or collapse if possible.                     | Latent         |
+| 79 | Device should be convenient for outdoor use.                   | Latent         |
+| 80 | Device should not be awkward to carry.                          | Latent         |
+
+# Priority 5 – Safety & Comfort
+**Meta Need:** **The product interacts safely with people and pets of all ages and sizes.**
+
+| #  | User Need                                                       | Explicit/Latent |
+|----|-----------------------------------------------------------------|----------------|
+| 81 | Device should use safe materials.                                | Explicit       |
+| 82 | Device should not have sharp edges.                               | Latent         |
+| 83 | Device should not harm the pet.                                  | Explicit       |
+| 84 | Device should not harm the user.                                 | Explicit       |
+| 85 | Device should use non-toxic plastic.                              | Explicit       |
+| 86 | Device should not pinch fingers.                                  | Latent         |
+| 87 | Device should be safe for children to handle.                     | Explicit       |
+| 88 | Device should maintain structural safety outdoors.               | Latent         |
+| 89 | Device should have comfortable grip.                              | Latent         |
+| 90 | Device should not cause hand fatigue.                             | Latent         |
+| 91 | Device should not slip during use.                                 | Latent         |
+| 92 | Device should not strain the wrist.                                | Latent         |
+| 93 | Device should reduce bending-related strain.                      | Latent         |
+| 94 | Device should balance comfort with sturdiness.                    | Latent         |
+
+# Priority 6 – Sustainability & Cost
+**Meta Need:** **The device is affordable, minimizes waste, and uses eco-friendly materials where possible.**
+
+| #  | User Need                                                       | Explicit/Latent |
+|----|-----------------------------------------------------------------|----------------|
+| 95 | Device should have affordable replacement parts.               | Explicit       |
+| 96 | Device should not require expensive proprietary bags.           | Explicit       |
+| 97 | Device should support recyclable materials.                     | Latent         |
+| 98 | Device should not waste liners unnecessarily.                   | Latent         |
+| 99 | Device should last long enough to justify cost.                 | Latent         |
+| 100| Device should be affordable at purchase.                        | Explicit       |
