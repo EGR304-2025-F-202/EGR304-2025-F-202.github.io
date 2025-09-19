@@ -47,7 +47,7 @@ She does not worry about confusing technology because the trash can is easy to u
 
 1. **Product Design**
 
-   * The new product design will be based on that of a 13 gallon RubberMaid trash can with improvements based on the following requirements:
+      * The new product design will be based on that of a 13 gallon RubberMaid trash can with improvements based on the following requirements:
 * The product shall be distinguishable as a Team 202 product without looking at the logo
 * The product shall be easy to disassemble, deep clean, then reassemble, without damaging its function.
 * The product shall be rectangular enough in shape to fit into corners without compromising space efficiency
@@ -63,13 +63,34 @@ She does not worry about confusing technology because the trash can is easy to u
  
 1. **Interactivity** 
 
-* The product shall allow the lid to open automatically using motion detection (via IR sensor) when a user’s hand or object approaches within a defined range.
+      * The product shall allow the lid to open automatically using motion detection (via IR sensor) when a user’s hand or object approaches within a defined range.
 * The product shall provide manual override buttons (open/close) on the exterior, allowing users to interact with the trash can even if the sensor fails (via  weight sensor) and notify the user with an LED indicator or alert.
 * The product shall offer feedback through visual or audible (e.g., LED indicator or soft beep) to confirm successful interaction such as lid opening, full
 * The product shall detect when full and alert the user.
 * The product’s user interface shall be intuitive for all users after a single moment of learning how it works. 
 * The product shall allow users to adjust sensor sensitivity or alerts.
 * The product shall prevent accidental lid openings from irrelevant movements.
+
+1. **Customization** 
+
+      * The product shall be available in two colors, black and white.
+* The product shall have sensors that will have adjustable sensitivity for opening.
+
+1. **Manufacturing**
+
+      * The total FOB cost price of the product shall be <$50.
+* Parts must be mass-producible in batches of 100 parts.
+* Functioning of the device shall be easy to check by the manufacturer.
+
+1. **Safety**
+
+      * The product shall have rounded edges.
+* The product shall provide protection from overcurrent going to the motors and other electronic components.
+* The product shall have a “lock mode” to protect against pets.
+* The product shall have a manual open/close button in the case of a sensor malfunction or other reason.
+* The product shall have a sensor to check for if there is something in the way of the lid. 
+* The product shall not close hard enough to injure someone.
+
 
 
 ## Requirement Criteria Specifications
