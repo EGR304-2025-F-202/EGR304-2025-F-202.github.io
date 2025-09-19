@@ -54,14 +54,14 @@ She does not worry about confusing technology because the trash can is easy to u
 * The product shall hold up to 15 pounds of trash.
 
   
-2. **Functionality**
+1. **Functionality**
 
       * The product shall have an automatically closing lid.
 * The product shall be odor-resistant.
 * The product shall be durable.
 * The product shall keep out children and pets.
  
- 3. **Interactivity** 
+1. **Interactivity** 
 
 * The product shall allow the lid to open automatically using motion detection (via IR sensor) when a user’s hand or object approaches within a defined range.
 * The product shall provide manual override buttons (open/close) on the exterior, allowing users to interact with the trash can even if the sensor fails (via  weight sensor) and notify the user with an LED indicator or alert.
