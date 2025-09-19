@@ -92,13 +92,21 @@ She does not worry about confusing technology because the trash can is easy to u
 * The product shall not close hard enough to injure someone.
 
 
-
 ## Requirement Criteria Specifications
 
-* 1.1.1 - Regulate system power from 9 volts to 5 volts
-* 1.1.2 - Provide over-amperage project to not exceed 1.5 amps.
+* The product must prevent pets from accessing the contents.
+* The product must have safety measures to prevent injury to the user.
+* The product must be able to hold 15 pounds of trash.
+* The product shall stop closing if 2 pounds of resistance is detected.
+* The product’s lid shall open within 2 seconds of user interaction.
+* The product shall withstand 100,000 open/close cycles without failure.
+* The product’s user sensor shall reach 2 feet from the device.
+
 
 ## Open Questions
 
-* Can we move towards a recyclable and repairable product, for example, with ZIF connectors and glue-free assembly?
-* Can we improve on failing or self-igniting batteries?
+* What kind of pivots can we make in case early user evaluations prove the product undesirable?
+* What is the ideal bin capacity (in liters) to balance household use with compact design?
+* Should the trash bag replace system be standard (universal bags) or proprietary (custom-fit bags)?
+* How can we ensure safe disposal of electronic components at end-of-life?
+
