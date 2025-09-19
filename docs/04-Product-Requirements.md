@@ -48,7 +48,6 @@ She does not worry about confusing technology because the trash can is easy to u
 1. **Product Design**
 
       * The new product design will be based on that of a 13 gallon RubberMaid trash can with improvements based on the following requirements:
-* The product shall be distinguishable as a Team 202 product without looking at the logo
 * The product shall be easy to disassemble, deep clean, then reassemble, without damaging its function.
 * The product shall be rectangular enough in shape to fit into corners without compromising space efficiency
 * The product shall hold up to 15 pounds of trash.
