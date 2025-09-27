@@ -1,4 +1,4 @@
-# Ranked Product Features for Smart Trash Can (1 = highest importance)
+# Design Ideation
 
 ## 1. Hygiene & Odor Control Features (Top Priority)
 1. Self-sealing bags – prevents odor escape  
