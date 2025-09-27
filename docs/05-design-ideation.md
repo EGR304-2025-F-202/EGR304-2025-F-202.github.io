@@ -128,6 +128,7 @@ We ranked the 100 product features based on the user needs identified in the rev
 ## Concept Designs
 
 <img width="1590" height="1392" alt="image" src="https://github.com/user-attachments/assets/0bc81116-027b-491e-8bb8-4c7118065367" />
+<img width="2544" height="1640" alt="image" src="https://github.com/user-attachments/assets/bf16636d-07cf-4f93-b8e1-f11a07a2b43a" />
 <img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/bcabbb11-5f63-4b62-86fa-737b0cb57f07" />
 
 ## One-page Discussion
