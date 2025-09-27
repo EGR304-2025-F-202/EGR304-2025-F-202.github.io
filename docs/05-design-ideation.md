@@ -125,6 +125,10 @@
 
 We ranked the 100 product features based on the user needs identified in the reviews, prioritizing hygiene, reliability, and ease of use since these areas caused the strongest dissatisfaction when they failed (such as odors escaping, lids breaking, or sensors malfunctioning), which makes sense, considering the product in question is a trash can. Safety and comfort followed, as they influence daily trust and usability, while notifications and connectivity were placed mid-level because they enhance convenience but are less critical than core performance. Energy efficiency, sustainability, portability, and storage were positioned lower, as they add value but are not dealbreakers for most users. Finally, advanced experimental functions and aesthetic design features were ranked last, since they serve more as factors differentiating our product from others or as enhancements rather than essential needs. This approach ensures that the most important issues are addressed first, while still leaving room for innovation and lifestyle improvements.
 
+## Concept Designs
+
+<img width="1590" height="1392" alt="image" src="https://github.com/user-attachments/assets/0bc81116-027b-491e-8bb8-4c7118065367" />
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/bcabbb11-5f63-4b62-86fa-737b0cb57f07" />
 
 ## One-page Discussion
 
