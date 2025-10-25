@@ -2,6 +2,6 @@
 title: Software Proposal
 ---
 
-![Block diagram](Team_202_Software_Proposal.png)
+![Block diagram](Team_202_Software_Proposal.drawio.png)
 
 
