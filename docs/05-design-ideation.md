@@ -1,143 +1,104 @@
 # Design Ideation
 
-## 1. Hygiene & Odor Control Features (Top Priority)
-1. Self-sealing bags – prevents odor escape  
-2. Automatic lid closing – reduces smell and contamination  
-3. Carbon filter system – continuous odor absorption  
-4. UV sterilization – sanitizes interior between uses  
-5. Bag compression system – reduces space and smell  
-6. Internal deodorizer dispenser – sprays neutralizer  
-7. Air-tight gasketed lid – strong odor lock  
-8. Auto bag change system – eliminates contact with waste  
-9. Touch-free disposal chute – drop waste without touching lid  
-10. Heated liner system – reduces bacteria growth  
-
-## 2. Reliability & Longevity Features
-11. Anti-clog chute design – prevents jamming  
-12. Heavy-duty hinges – resist frequent use  
-13. Waterproof electronics housing – protects circuits  
-14. Reinforced outer shell – withstands drops or bumps  
-15. Replaceable motor module – extend device lifespan  
-16. Smart jam detection – auto-reverse when stuck  
-17. Dust-proof sealing – protects sensors  
-18. Corrosion-resistant metal parts – for wet waste  
-19. Long-life rechargeable battery – minimizes charging cycles  
-20. Self-diagnostics mode – alerts when parts fail  
-
-## 3. Ease of Use & Convenience Features
-21. Motion sensor lid – hands-free access  
-22. Foot pedal backup – non-electric operation  
-23. One-button bag release – quick emptying  
-24. Multi-size bag compatibility – works with standard liners  
-25. Tilt-out bin – easier bag removal  
-26. Adjustable opening speed – slow or fast lid  
-27. Large opening design – accommodates bulky waste  
-28. Low-battery indicator – simple status display  
-29. Volume capacity indicator – shows fullness level  
-30. Bag roll storage compartment – keeps spares inside  
-
-## 4. Safety & Comfort Features
-31. Anti-pinch lid mechanism – prevents accidents  
-32. Rounded edges – reduces injury risk  
-33. Fire-retardant materials – safe for kitchen  
-34. Child-lock lid – prevents accidental access  
-35. Pet-resistant lid – stops curious animals  
-36. Overheat protection for motor – shuts off safely  
-37. Spill containment tray – catches leaks  
-38. Soft-close mechanism – prevents slamming  
-39. Non-slip base – stable on tile/wood floors  
-40. Shock-absorbing lid dampers – reduces noise  
-
-## 5. Notifications & Feedback Features
-41. LED status ring – shows color-coded states  
-42. Buzzer tones – different alerts for functions  
-43. LCD screen – simple icons and text  
-44. Speaker – voice status updates  
-45. App notifications – remote alerts  
-46. Full-bag indicator light – clear warning  
-47. AI text-to-speech – customizable alerts  
-48. OLED display – advanced graphics  
-49. Projection indicator – shines light onto floor  
-50. Haptic feedback (for lid pedal) – tactile signal  
-
-## 6. Connectivity & Smart Features
-51. Wi-Fi connection – app control  
-52. Bluetooth pairing – short-range syncing  
-53. Alexa/Google Home integration – voice control  
-54. QR code bag ordering – scan to restock  
-55. Waste tracking app – monitors disposal habits  
-56. AI waste sorting suggestion – suggests recycling  
-57. Cloud diagnostics – remote troubleshooting  
-58. Family account profiles – track usage per person  
-59. NFC tap control – quick phone-based access  
-60. Automatic software updates – new features over time  
-
-## 7. Energy & Sustainability Features
-61. Energy-saving standby mode – reduces idle power  
-62. Solar charging panel – eco-friendly recharge  
-63. Kinetic energy pedal – charges with use  
-64. Replaceable rechargeable battery pack – modular power  
-65. Compost bag mode – works with biodegradable liners  
-66. Power-off manual mode – runs without electricity  
-67. Auto sleep when unused – extends lifespan  
-68. Smart power adapter – prevents overcharging  
-69. Energy usage tracker – monitors consumption  
-70. Hand-crank backup power – emergency use  
-
-## 8. Portability & Storage Features
-71. Built-in carrying handles – easy lift  
-72. Collapsible design – folds down when not needed  
-73. Wheels with lock – easy movement  
-74. Stackable units – modular trash storage  
-75. Backpack-style straps – carry on the go  
-76. Compact travel model – mini version for cars  
-77. Clip-on outdoor attachment – hooks to fences/poles  
-78. Docking station for multiple bins – organized storage  
-79. Adjustable height – fits under counters  
-80. Detachable bin insert – makes emptying easier  
-
-## 9. Advanced/Experimental Features (Lower Priority, “Nice to Have”)
-81. AI odor detection – adjusts deodorizer release  
-82. Facial recognition – personalized access settings  
-83. Gesture control – wave patterns for functions  
-84. Augmented reality waste projection – guides sorting  
-85. Holographic display – floating status updates  
-86. Smart floor scale – weighs trash for tracking  
-87. Automatic waste categorization – separates recyclables  
-88. Voice-controlled lid open/close – hands-free use  
-89. 360° camera monitoring – home security add-on  
-90. Drone bag removal system – auto transport outside  
-
-## 10. Aesthetic & Lifestyle Features (Lowest Priority)
-91. Interchangeable color panels – customize trash can  
-92. Ambient light glow – doubles as nightlight  
-93. Aromatherapy mode – releases pleasant scents  
-94. Designer collaborations – premium aesthetic edition  
-95. Transparent viewing window – shows fill level  
-96. Customizable skins – vinyl wraps for design  
-97. Mirror-finish exterior – modern look  
-98. Wooden trim accents – home-friendly style  
-99. Hidden compartment storage – for bags/tools  
-100. LED art display – adds some flavor to the trashcan
-
-
-## Process for Ranking
-
-We ranked the 100 product features based on the user needs identified in the reviews, prioritizing hygiene, reliability, and ease of use since these areas caused the strongest dissatisfaction when they failed (such as odors escaping, lids breaking, or sensors malfunctioning), which makes sense, considering the product in question is a trash can. Safety and comfort followed, as they influence daily trust and usability, while notifications and connectivity were placed mid-level because they enhance convenience but are less critical than core performance. Energy efficiency, sustainability, portability, and storage were positioned lower, as they add value but are not dealbreakers for most users. Finally, advanced experimental functions and aesthetic design features were ranked last, since they serve more as factors differentiating our product from others or as enhancements rather than essential needs. This approach ensures that the most important issues are addressed first, while still leaving room for innovation and lifestyle improvements.
-
-## Concept Designs
-
-<img width="1590" height="1392" alt="image" src="https://github.com/user-attachments/assets/0bc81116-027b-491e-8bb8-4c7118065367" />
-<img width="2544" height="1640" alt="image" src="https://github.com/user-attachments/assets/bf16636d-07cf-4f93-b8e1-f11a07a2b43a" />
-<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/bcabbb11-5f63-4b62-86fa-737b0cb57f07" />
-
-## One-page Discussion
-
-During our brainstorming session for the smart trash can project, our team, Damian, Lia, Vedaa, and Mohammed, met mainly through Zoom, but also had discussions through group chats when we needed to continue discussing outside of live meetings. These methods of communication allowed everyone to contribute according to their availability and ensured that our conversations were able to keep going beyond zoom.
-
-The process began with a general discussion of the project assignment, where we reviewed the specific requirements provided to us. Each team member contributed their own interpretation of what the assignment was asking for, and from there, we started generating initial ideas. To expand our pool of options, we used several sources: brainstorming aloud during Zoom calls, conducting quick searches on Google to see what kinds of smart trash cans or similar products already existed, and browsing online marketplaces like Amazon for inspiration. These resources helped us see what features are already on the market, as well as gaps that could be improved upon.
-
-We collected ideas in real time, with each team member acting as a note-taker by writing down ideas on a Google Doc during Zoom meetings while others contributed suggestions. The notes were later shared with the group so everyone could verify and refine what had been written. Because we also brainstormed over text, some ideas were collected asynchronously, which allowed team members to think and refine their ideas more carefully before contributing. This helped balance out the group dynamic.
-Once we had a long list of features and concepts, we began grouping them into broader categories. For example, ideas related to health and cleanliness were grouped under Hygiene & Odor Control, while concepts involving app connectivity or smart sensors fell under Connectivity & Smart Features. This categorization made it easier to see where our priorities lay and how different ideas fit together.
-
-Finally, we used a ranking system to prioritize which categories and features should take precedence in our design. We agreed on a scale from 1 to 10, with 1 representing the most important features and 10 the least important. The final rankings were: (1) Hygiene & Odor Control, (2) Reliability & Longevity, (3) Ease of Use & Convenience, (4) Safety & Comfort, (5) Notifications & Feedback, (6) Connectivity & Smart Features, (7) Energy & Sustainability, (8) Portability & Storage, (9) Advanced/Experimental, and (10) Aesthetic & Lifestyle. This system gave us a clear framework for decision-making and ensured that our design process would focus on the features most critical to user needs while still leaving room for innovation and customization.
+| **Category** | **Feature** | **Description** |
+|---------------|-------------|-----------------|
+| **Hygiene & Odor Control (Top Priority)** | Self-sealing bags | Prevents odor escape |
+| **Hygiene & Odor Control (Top Priority)** | Automatic lid closing | Reduces smell and contamination |
+| **Hygiene & Odor Control (Top Priority)** | Carbon filter system | Continuous odor absorption |
+| **Hygiene & Odor Control (Top Priority)** | UV sterilization | Sanitizes interior between uses |
+| **Hygiene & Odor Control (Top Priority)** | Bag compression system | Reduces space and smell |
+| **Hygiene & Odor Control (Top Priority)** | Internal deodorizer dispenser | Sprays neutralizer |
+| **Hygiene & Odor Control (Top Priority)** | Air-tight gasketed lid | Strong odor lock |
+| **Hygiene & Odor Control (Top Priority)** | Auto bag change system | Eliminates contact with waste |
+| **Hygiene & Odor Control (Top Priority)** | Touch-free disposal chute | Drop waste without touching lid |
+| **Hygiene & Odor Control (Top Priority)** | Heated liner system | Reduces bacteria growth |
+| **Reliability & Longevity** | Anti-clog chute design | Prevents jamming |
+| **Reliability & Longevity** | Heavy-duty hinges | Resist frequent use |
+| **Reliability & Longevity** | Waterproof electronics housing | Protects circuits |
+| **Reliability & Longevity** | Reinforced outer shell | Withstands drops or bumps |
+| **Reliability & Longevity** | Replaceable motor module | Extend device lifespan |
+| **Reliability & Longevity** | Smart jam detection | Auto-reverse when stuck |
+| **Reliability & Longevity** | Dust-proof sealing | Protects sensors |
+| **Reliability & Longevity** | Corrosion-resistant metal parts | For wet waste |
+| **Reliability & Longevity** | Long-life rechargeable battery | Minimizes charging cycles |
+| **Reliability & Longevity** | Self-diagnostics mode | Alerts when parts fail |
+| **Ease of Use & Convenience** | Motion sensor lid | Hands-free access |
+| **Ease of Use & Convenience** | Foot pedal backup | Non-electric operation |
+| **Ease of Use & Convenience** | One-button bag release | Quick emptying |
+| **Ease of Use & Convenience** | Multi-size bag compatibility | Works with standard liners |
+| **Ease of Use & Convenience** | Tilt-out bin | Easier bag removal |
+| **Ease of Use & Convenience** | Adjustable opening speed | Slow or fast lid |
+| **Ease of Use & Convenience** | Large opening design | Accommodates bulky waste |
+| **Ease of Use & Convenience** | Low-battery indicator | Simple status display |
+| **Ease of Use & Convenience** | Volume capacity indicator | Shows fullness level |
+| **Ease of Use & Convenience** | Bag roll storage compartment | Keeps spares inside |
+| **Safety & Comfort** | Anti-pinch lid mechanism | Prevents accidents |
+| **Safety & Comfort** | Rounded edges | Reduces injury risk |
+| **Safety & Comfort** | Fire-retardant materials | Safe for kitchen |
+| **Safety & Comfort** | Child-lock lid | Prevents accidental access |
+| **Safety & Comfort** | Pet-resistant lid | Stops curious animals |
+| **Safety & Comfort** | Overheat protection for motor | Shuts off safely |
+| **Safety & Comfort** | Spill containment tray | Catches leaks |
+| **Safety & Comfort** | Soft-close mechanism | Prevents slamming |
+| **Safety & Comfort** | Non-slippery base | Stable on tile/wood floors |
+| **Safety & Comfort** | Shock-absorbing lid dampers | Reduces noise |
+| **Notifications & Feedback** | LED status ring | Shows color-coded states |
+| **Notifications & Feedback** | Buzzer tones | Different alerts for functions |
+| **Notifications & Feedback** | LCD screen | Simple icons and text |
+| **Notifications & Feedback** | Speaker | Voice status updates |
+| **Notifications & Feedback** | App notifications | Remote alerts |
+| **Notifications & Feedback** | Full-bag indicator light | Clear warning |
+| **Notifications & Feedback** | AI text-to-speech | Customizable alerts |
+| **Notifications & Feedback** | OLED display | Advanced graphics |
+| **Notifications & Feedback** | Projection indicator | Shines light onto floor |
+| **Notifications & Feedback** | Haptic feedback (for lid pedal) | Tactile signal |
+| **Connectivity & Smart Features** | Wi-Fi connection | App control |
+| **Connectivity & Smart Features** | Bluetooth pairing | Short-range syncing |
+| **Connectivity & Smart Features** | Alexa/Google Home integration | Voice control |
+| **Connectivity & Smart Features** | QR code bag ordering | Scan to restock |
+| **Connectivity & Smart Features** | Waste tracking app | Monitors disposal habits |
+| **Connectivity & Smart Features** | AI waste sorting suggestion | Suggests recycling |
+| **Connectivity & Smart Features** | Cloud diagnostics | Remote troubleshooting |
+| **Connectivity & Smart Features** | Family account profiles | Track usage per person |
+| **Connectivity & Smart Features** | NFC tap control | Quick phone-based access |
+| **Connectivity & Smart Features** | Automatic software updates | New features over time |
+| **Energy & Sustainability** | Energy-saving standby mode | Reduces idle power |
+| **Energy & Sustainability** | Solar charging panel | Eco-friendly recharge |
+| **Energy & Sustainability** | Kinetic energy pedal | Charges with use |
+| **Energy & Sustainability** | Replaceable rechargeable battery pack | Modular power |
+| **Energy & Sustainability** | Compost bag mode | Works with biodegradable liners |
+| **Energy & Sustainability** | Power-off manual mode | Runs without electricity |
+| **Energy & Sustainability** | Auto sleep when unused | Extends lifespan |
+| **Energy & Sustainability** | Smart power adapter | Prevents overcharging |
+| **Energy & Sustainability** | Energy usage tracker | Monitors consumption |
+| **Energy & Sustainability** | Hand-crank backup power | Emergency use |
+| **Portability & Storage** | Built-in carrying handles | Easy lift |
+| **Portability & Storage** | Collapsible design | Folds down when not needed |
+| **Portability & Storage** | Wheels with lock | Easy movement |
+| **Portability & Storage** | Stackable units | Modular trash storage |
+| **Portability & Storage** | Backpack-style straps | Carry on the go |
+| **Portability & Storage** | Compact travel model | Mini version for cars |
+| **Portability & Storage** | Clip-on outdoor attachment | Hooks to fences/poles |
+| **Portability & Storage** | Docking station for multiple bins | Organized storage |
+| **Portability & Storage** | Adjustable height | Fits under counters |
+| **Portability & Storage** | Detachable bin insert | Makes emptying easier |
+| **Advanced/Experimental** | AI odor detection | Adjusts deodorizer release |
+| **Advanced/Experimental** | Facial recognition | Personalized access settings |
+| **Advanced/Experimental** | Gesture control | Wave patterns for functions |
+| **Advanced/Experimental** | Augmented reality waste projection | Guides sorting |
+| **Advanced/Experimental** | Holographic display | Floating status updates |
+| **Advanced/Experimental** | Smart floor scale | Weighs trash for tracking |
+| **Advanced/Experimental** | Automatic waste categorization | Separates recyclables |
+| **Advanced/Experimental** | Voice-controlled lid open/close | Hands-free use |
+| **Advanced/Experimental** | 360° camera monitoring | Home security add-on |
+| **Advanced/Experimental** | Drone bag removal system | Auto transport outside |
+| **Aesthetic & Lifestyle (Lowest Priority)** | Interchangeable color panels | Customize trash can |
+| **Aesthetic & Lifestyle (Lowest Priority)** | Ambient light glow | Doubles as nightlight |
+| **Aesthetic & Lifestyle (Lowest Priority)** | Aromatherapy mode | Releases pleasant scents |
+| **Aesthetic & Lifestyle (Lowest Priority)** | Designer collaborations | Premium aesthetic edition |
+| **Aesthetic & Lifestyle (Lowest Priority)** | Transparent viewing window | Shows fill level |
+| **Aesthetic & Lifestyle (Lowest Priority)** | Customizable skins | Vinyl wraps for design |
+| **Aesthetic & Lifestyle (Lowest Priority)** | Mirror-finish exterior | Modern look |
+| **Aesthetic & Lifestyle (Lowest Priority)** | Wooden trim accents | Home-friendly style |
+| **Aesthetic & Lifestyle (Lowest Priority)** | Hidden compartment storage | For bags/tools |
+| **Aesthetic & Lifestyle (Lowest Priority)** | LED art display | Adds some flavor to the trashcan |
