@@ -27,7 +27,7 @@ Kevin Nichols<br>
 
 | **Team Member**        |**Ind Datasheet Links** |
 | ---------------------- | -----------------------|
-| John Doe               | [JohnDoe.GitHub](https://embedded-systems-design.github.io/EGR304DataSheetTemplate/) |
+| Lia Ryan               | [lryan5.github](https://lryan5.github.io/) |
 | Name #2                | link |
 | Name #3                | link |
 | Name #4                | link |
