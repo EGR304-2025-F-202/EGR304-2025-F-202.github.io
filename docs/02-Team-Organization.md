@@ -13,4 +13,5 @@ tags:
 
 ## Product Mission Statement
 
-We are building a smart trash can that helps people manage waste in a cleaner, safer, and more convenient way. It will use sensors to detect motion for hands-free use, monitor fill level, and check when the trash is getting too heavy. It will also help reduce odors and alert users when it’s time to take out the trash. The goal is to make everyday waste disposal easier and more hygienic.
+The trash can that locks in smells and keeps out pets for the ease of the busy home owner.
+
