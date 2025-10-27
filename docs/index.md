@@ -5,7 +5,7 @@ tags:
 - tag2
 ---
 <center>
-<font size="8">Team Organization, Charter, and Repository<br>
+<font size="8">Autocan: Automatic Trashcan<br>
 <font size="5">Team 202<br>
 <font size="4">Damian Novgorodov, Lia Ryan, Mohammed Ali D Alqarni, Vedaa Ubale<br>
 **Submission: September, 5, 2025**<br>
