@@ -27,6 +27,6 @@ We are Team 202 in Professor Nichols EGR 304 class. We have been tasked with com
 | **Team Member**        |**Ind Datasheet Links** |
 | ---------------------- | -----------------------|
 | Lia Ryan               | [lryan5.github](https://lryan5.github.io/) |
-| Name #2                | link |
-| Name #3                | link |
-| Name #4                | link |
+| Damian Novgorodov      | [dnovgorodov.github](https://dnovgorodov.github.io/) |
+| Vedaa Ubale            | [vedaau.github](https://vedaau.github.io/) |
+| Mohammed Ali           | [malqarn2.github](https://github.com/malqarn2/malqarn2.github.io) |
