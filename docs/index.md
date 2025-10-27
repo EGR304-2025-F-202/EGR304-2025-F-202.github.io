@@ -28,6 +28,6 @@ Kevin Nichols<br>
 | **Team Member**        |**Ind Datasheet Links** |
 | ---------------------- | -----------------------|
 | Lia Ryan               | [lryan5.github](https://lryan5.github.io/) |
-| Name #2                | link |
+| Damian Novgorodov      | [dnovgorodov.github](https://dnovgorodov.github.io/) |
 | Name #3                | link |
 | Name #4                | link |
