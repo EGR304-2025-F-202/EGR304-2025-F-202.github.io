@@ -18,9 +18,8 @@ Kevin Nichols<br>
 </center>
 
 ## Team Introduction
-> This will be updated as part of the preparation for the External Review.<br>
->    * This needs to be updated to reflect a team introduction.<br>
->    * Content should also help an unfamiliar reader navigate to areas of interest.
+
+We are Team 202 in Professor Nichols EGR 304 class. We have been tasked with coming up, designing and creating a solution for the home that uses sensors in order to benefit users. For our design, we wanted to create an automatic trash can to make the lives of homeowners easier. With our Autocan, we want to make a product that keeps all of the smells and sights of a household’s daily trash output out of sight and out of smell whilst being as easy to access as a trash can without a lid. Autocan will have two internal sensors to detect when the trash is full. These will be a height sensor and weight sensor. If either of these are triggered, the device will visually indicate the user. To operate the device, an outer motion sensor will detect a user and a motorized hinge will open the lid allowing the deposition of waste without touching the device. 
 
 
 ## Team Members Datasheet links
