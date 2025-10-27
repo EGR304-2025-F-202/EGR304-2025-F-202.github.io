@@ -29,5 +29,5 @@ Kevin Nichols<br>
 | ---------------------- | -----------------------|
 | Lia Ryan               | [lryan5.github](https://lryan5.github.io/) |
 | Damian Novgorodov      | [dnovgorodov.github](https://dnovgorodov.github.io/) |
-| Name #3                | link |
+| Vedaa Ubale            | [vedaau.github](https://vedaau.github.io/) |
 | Name #4                | link |
