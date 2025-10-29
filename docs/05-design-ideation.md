@@ -102,3 +102,24 @@
 | **Aesthetic & Lifestyle (Lowest Priority)** | Wooden trim accents | Home-friendly style |
 | **Aesthetic & Lifestyle (Lowest Priority)** | Hidden compartment storage | For bags/tools |
 | **Aesthetic & Lifestyle (Lowest Priority)** | LED art display | Adds some flavor to the trashcan |
+
+## Process for Ranking
+
+We ranked the 100 product features based on the user needs identified in the reviews, prioritizing hygiene, reliability, and ease of use since these areas caused the strongest dissatisfaction when they failed (such as odors escaping, lids breaking, or sensors malfunctioning), which makes sense, considering the product in question is a trash can. Safety and comfort followed, as they influence daily trust and usability, while notifications and connectivity were placed mid-level because they enhance convenience but are less critical than core performance. Energy efficiency, sustainability, portability, and storage were positioned lower, as they add value but are not dealbreakers for most users. Finally, advanced experimental functions and aesthetic design features were ranked last, since they serve more as factors differentiating our product from others or as enhancements rather than essential needs. This approach ensures that the most important issues are addressed first, while still leaving room for innovation and lifestyle improvements.
+
+## Concept Designs
+
+<img width="1590" height="1392" alt="image" src="https://github.com/user-attachments/assets/0bc81116-027b-491e-8bb8-4c7118065367" />
+<img width="2544" height="1640" alt="image" src="https://github.com/user-attachments/assets/bf16636d-07cf-4f93-b8e1-f11a07a2b43a" />
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/bcabbb11-5f63-4b62-86fa-737b0cb57f07" />
+
+## One-page Discussion
+
+During our brainstorming session for the smart trash can project, our team, Damian, Lia, Vedaa, and Mohammed, met mainly through Zoom, but also had discussions through group chats when we needed to continue discussing outside of live meetings. These methods of communication allowed everyone to contribute according to their availability and ensured that our conversations were able to keep going beyond zoom.
+
+The process began with a general discussion of the project assignment, where we reviewed the specific requirements provided to us. Each team member contributed their own interpretation of what the assignment was asking for, and from there, we started generating initial ideas. To expand our pool of options, we used several sources: brainstorming aloud during Zoom calls, conducting quick searches on Google to see what kinds of smart trash cans or similar products already existed, and browsing online marketplaces like Amazon for inspiration. These resources helped us see what features are already on the market, as well as gaps that could be improved upon.
+
+We collected ideas in real time, with each team member acting as a note-taker by writing down ideas on a Google Doc during Zoom meetings while others contributed suggestions. The notes were later shared with the group so everyone could verify and refine what had been written. Because we also brainstormed over text, some ideas were collected asynchronously, which allowed team members to think and refine their ideas more carefully before contributing. This helped balance out the group dynamic.
+Once we had a long list of features and concepts, we began grouping them into broader categories. For example, ideas related to health and cleanliness were grouped under Hygiene & Odor Control, while concepts involving app connectivity or smart sensors fell under Connectivity & Smart Features. This categorization made it easier to see where our priorities lay and how different ideas fit together.
+
+Finally, we used a ranking system to prioritize which categories and features should take precedence in our design. We agreed on a scale from 1 to 10, with 1 representing the most important features and 10 the least important. The final rankings were: (1) Hygiene & Odor Control, (2) Reliability & Longevity, (3) Ease of Use & Convenience, (4) Safety & Comfort, (5) Notifications & Feedback, (6) Connectivity & Smart Features, (7) Energy & Sustainability, (8) Portability & Storage, (9) Advanced/Experimental, and (10) Aesthetic & Lifestyle. This system gave us a clear framework for decision-making and ensured that our design process would focus on the features most critical to user needs while still leaving room for innovation and customization.
