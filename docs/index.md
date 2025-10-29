@@ -1,8 +1,5 @@
 ---
 title: Home
-tags:
-- tag1
-- tag2
 ---
 <center>
 <font size="8">Autocan: Automatic Trashcan<br>
