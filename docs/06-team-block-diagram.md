@@ -2,6 +2,4 @@
 title: Block Diagram
 ---
 
-![Block diagram](Team_Final_Block_Diagram.drawio.svg)
-
-
+![Block diagram](Team_Final_Block_Diagram.drawio.png)
