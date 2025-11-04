@@ -35,6 +35,21 @@ Based on the information provided on in the "Team Member Communication Modes," t
 2. How will you handle instructor correspondence? Who is responsible? How will that be communicated with/back to the group?
 <br>We will handle instructor correspondence by discussing in our group chat within 12 hours of the professor's correspondence. Lia will be responsible for the correspondence and will communicate back to the group through forwarded emails and group chat.
 
+## Missing class or meeting responsibilities
+
+The missing team member shall inform group chat as soon as possible, when they know they cannot attend, and request what work is required of them. <br><br>
+
+The team shall inform them of what they missed. <br><br>
+
+The missing team member shall confirm that they received the information by messaging back or leaving a thumbs up on the message by noon the following day.<br><br>
+
+# Message response times
+
+Team members shall respond to group chat messages via messaging back or leaving a thumbs up on the new message(s) within 2 hours of receiving the message on the day before and the day team hw is due. For all other times, until the final project is turned in, it will be 4 hours within receiving the message. <br><br>
+
+Exceptions will be made for sleeping, weekends without hw due the following Monday and whenever a teammate informs the group they will not be available. 
+
+
 ## Meeting Schedule
 
 _**Appendix Table 2**: Weekly Schedule_
@@ -68,17 +83,7 @@ _**Table Legend for Appendix Table 2**_
 
 ## Meeting Coordination
 
-1. What method will you use to remind yourselves of meetings (a shared calendar?)
-<br>We will used a group chat and a shared calendar to remind ourselves of meetings.
-
-2. How will your team go about changing or adding meeting times?
-<br>We will discuss any requested changes in the group chat and if we can not come to a consensus then we will try to meet with the majority of group members.
-
-3. What's the preferred format for meetings (face-to-face or virtually)?
-<br>Our preffered format is in person. We will use Zoom if there is not any physical work required.
-
-4. Are there any other procedures that your team feels are necessary?
-<br>Currently, there are not.
+We will meet at least once a week on zoom or in person on Monday evening around 6-8:00 PM. Other meeting times will be planned when needed in order to complete assignments and project requirements. These times should ideally be planned at least a day or two prior. However, that might not always be the case. We will discuss in-class or in our group chat when these additional meetings shall take place.
 
 ## Roles & Responsibilities
 
@@ -86,10 +91,10 @@ _**Appendix Table 2**: Project Roles and Duties_
 
 | **Role**          | **Duties**                                                                                                                                |
 | :---------------- | :---------------------------------------------------------------------------------------------------------------------------------------- |
-| Meeting leader    | Schedules team meetings, creates and distributes an agenda for each meeting, and runs each meeting                                        |
-| Meeting recorder  | Takes minutes of each team meeting, including attendance, and records action items and to whom they are assigned                          |
-| Assignment leader | Coordinates the team's work on a given assignment to Canvas before the due date                                                           |
-| Project monitor   | Tracks the team's progress relative to the project schedule (Gantt chart) and keeps team members apprised of deadlines and project status |
+| Meeting leader (Lia Ryan)   | Schedules team meetings, creates and distributes an agenda for each meeting, and runs each meeting                                        |
+| Meeting recorder (Mohammed Ali) | Takes minutes of each team meeting, including attendance, and records action items and to whom they are assigned                          |
+| Assignment leader (Damian Novgorodov) | Coordinates the team's work on a given assignment to Canvas before the due date                                                           |
+| Project monitor  (Vedaa Ubale) | Tracks the team's progress relative to the project schedule (Gantt chart) and keeps team members apprised of deadlines and project status |
 
 The roles in the above table all seem fair, so we will just leave them as that.
 
