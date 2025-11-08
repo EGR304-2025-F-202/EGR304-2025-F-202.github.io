@@ -9,3 +9,9 @@ The weight and height subsystems both send signals to the external IR sensor sub
 ## Block Diagram
 
 ![Block diagram](11-7-25_Team_Block_Diagram.png)
+
+## Connections Table
+
+Here is a table describing all of the conections between each team member's subsystem. This table shows what the functionality of each pin on the connector is.
+
+![Connections Table](Connections_Table.png)
