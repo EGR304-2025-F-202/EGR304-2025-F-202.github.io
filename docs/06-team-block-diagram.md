@@ -8,7 +8,7 @@ The weight and height subsystems both send signals to the external IR sensor sub
 
 ## Block Diagram
 
-![Block diagram](11-7-25_Team_Block_Diagram.png)
+![Block diagram](12-8-25_Team_Final_Block_Diagram.png)
 
 ## Connections Table
 
