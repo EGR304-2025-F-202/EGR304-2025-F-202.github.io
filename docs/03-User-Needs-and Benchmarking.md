@@ -19,113 +19,138 @@ We are trying to serve those who have a hard time opening a trash can lid and th
 [Amazon Smart Trash can search](https://www.amazon.com/smart-trash-can/s?k=smart%20trash%20can)
 
 ## Existing Products used 
-[Vanpopubs Can](https://www.amazon.com/Vanpopubs-Bathroom-Automatic-Touchless-Waterproof/dp/B0DBLMHFJ8/ref=sr_1_5?dib=eyJ2IjoiMSJ9.37qDhiG8Ui1BT5x4twhFVKvs_zirNSUWUo261hQTZUS2GMaIs7s8V_cVWJzntM5vjI8lAJAB0jaMBfBICzLU9uhDWfSDKq861O9gc-pWOLous5ulPIcIF2gv805u4K8YjxMWFgo8mq_dZrFOEFigaFXRGbDJw08qQwptUV1iEXql1Au7OeBASmo9eEx_4xaYVK5TVK_y6gjSgmhpuHBRgwZYB6cxV3HBjLmcbxR7Zh8hIVsnkWsJgk4NZumj3DUEDpRrV8wz41bIWCG6UgiZVz5A8P1YxtMDiwSLhAWRT0A.xvKwZ5rJw0NkTCn6T0rFZTCoAs7VWkUBLgU6B7Hi9QE&dib_tag=se&keywords=smart%2Btrash%2Bcan&qid=1757999102&sr=8-5&th=1)<br>
-[EKO Mirage Can](http://amazon.com/EKO-Mirage-T-Rectangular-Brushed-Stainless/dp/B07RYBNJG3/ref=sr_1_6?dib=eyJ2IjoiMSJ9.37qDhiG8Ui1BT5x4twhFVKvs_zirNSUWUo261hQTZUS2GMaIs7s8V_cVWJzntM5vjI8lAJAB0jaMBfBICzLU9uhDWfSDKq861O9gc-pWOLous5ulPIcIF2gv805u4K8YjxMWFgo8mq_dZrFOEFigaFXRGbDJw08qQwptUV1iEXql1Au7OeBASmo9eEx_4xaYVK5TVK_y6gjSgmhpuHBRgwZYB6cxV3HBjLmcbxR7Zh8hIVsnkWsJgk4NZumj3DUEDpRrV8wz41bIWCG6UgiZVz5A8P1YxtMDiwSLhAWRT0A.xvKwZ5rJw0NkTCn6T0rFZTCoAs7VWkUBLgU6B7Hi9QE&dib_tag=se&keywords=smart+trash+can&qid=1757999102&sr=8-6)<br>
-[iTouchless Can](https://www.amazon.com/iTouchless-Pet-Proof-Prevents-Stainless-PetGuard/dp/B07Y2CDS89)<br>
-[Best Office Can](http://amazon.com/Can-Gallon-Automatic-Garbage-High-Capacity/dp/B018LNFQWE/ref=sr_1_8?dib=eyJ2IjoiMSJ9.37qDhiG8Ui1BT5x4twhFVKvs_zirNSUWUo261hQTZUS2GMaIs7s8V_cVWJzntM5vjI8lAJAB0jaMBfBICzLU9uhDWfSDKq861O9gc-pWOLous5ulPIcIF2gv805u4K8YjxMWFgo8mq_dZrFOEFigaFXRGbDJw08qQwptUV1iEXql1Au7OeBASmo9eEx_4xaYVK5TVK_y6gjSgmhpuHBRgwZYB6cxV3HBjLmcbxR7Zh8hIVsnkWsJgk4NZumj3DUEDpRrV8wz41bIWCG6UgiZVz5A8P1YxtMDiwSLhAWRT0A.xvKwZ5rJw0NkTCn6T0rFZTCoAs7VWkUBLgU6B7Hi9QE&dib_tag=se&keywords=smart+trash+can&qid=1757999102&sr=8-8)<br>
-[Ninestars Can](http://amazon.com/NINESTARS-DZT-50-28-Automatic-Touchless-Rectangular/dp/B06ZYKBF2Z/ref=sr_1_9?dib=eyJ2IjoiMSJ9.37qDhiG8Ui1BT5x4twhFVKvs_zirNSUWUo261hQTZUS2GMaIs7s8V_cVWJzntM5vjI8lAJAB0jaMBfBICzLU9uhDWfSDKq861O9gc-pWOLous5ulPIcIF2gv805u4K8YjxMWFgo8mq_dZrFOEFigaFXRGbDJw08qQwptUV1iEXql1Au7OeBASmo9eEx_4xaYVK5TVK_y6gjSgmhpuHBRgwZYB6cxV3HBjLmcbxR7Zh8hIVsnkWsJgk4NZumj3DUEDpRrV8wz41bIWCG6UgiZVz5A8P1YxtMDiwSLhAWRT0A.xvKwZ5rJw0NkTCn6T0rFZTCoAs7VWkUBLgU6B7Hi9QE&dib_tag=se&keywords=smart+trash+can&qid=1757999102&sr=8-9)<br>
+[Vanpopubs Can](https://www.amazon.com/Vanpopubs-Bathroom-Automatic-Touchless-Waterproof/dp/B0DBLMHFJ8/ref=sr_1_5?dib=eyJ2IjoiMSJ9.37qDhiG8Ui1BT5x4twhFVKvs_zirNSUWUo261hQTZUS2GMaIs7s8V_cVWJzntM5vjI8lAJAB0jaMBfBICzLU9uhDWfSDKq861O9gc-pWOLous5ulPIcIF2gv805u4K8YjxMWFgo8mq_dZrFOEFigaFXRGbDJw08qQwptUV1iEXql1Au7OeBASmo9eEx_4xaYVK5TVK_y6gjSgmhpuHBRgwZYB6cxV3HBjLmcbxR7Zh8hIVsnkWsJgk4NZumj3DUEDpRrV8wz41bIWCG6UgiZVz5A8P1YxtMDiwSLhAWRT0A.xvKwZ5rJw0NkTCn6T0rFZTCoAs7VWkUBLgU6B7Hi9QE&dib_tag=se&keywords=smart%2Btrash%2Bcan&qid=1757999102&sr=8-5&th=1)<br> 
+<img src="https://github.com/user-attachments/assets/55df9bc7-4f28-4446-a753-dbcf24732bbf" width="220">
 
+**Product Info**  
+- Approx. price: $29.97 (from Amazon)  
+- Capacity: 2.7 gallons  
+- Actuation: Infrared motion sensor, automatic lid  
+- Power: Batteries
+
+[EKO Mirage Can](http://amazon.com/EKO-Mirage-T-Rectangular-Brushed-Stainless/dp/B07RYBNJG3/ref=sr_1_6?dib=eyJ2IjoiMSJ9.37qDhiG8Ui1BT5x4twhFVKvs_zirNSUWUo261hQTZUS2GMaIs7s8V_cVWJzntM5vjI8lAJAB0jaMBfBICzLU9uhDWfSDKq861O9gc-pWOLous5ulPIcIF2gv805u4K8YjxMWFgo8mq_dZrFOEFigaFXRGbDJw08qQwptUV1iEXql1Au7OeBASmo9eEx_4xaYVK5TVK_y6gjSgmhpuHBRgwZYB6cxV3HBjLmcbxR7Zh8hIVsnkWsJgk4NZumj3DUEDpRrV8wz41bIWCG6UgiZVz5A8P1YxtMDiwSLhAWRT0A.xvKwZ5rJw0NkTCn6T0rFZTCoAs7VWkUBLgU6B7Hi9QE&dib_tag=se&keywords=smart+trash+can&qid=1757999102&sr=8-6)<br>
+<img src="https://github.com/user-attachments/assets/c37a82c6-34e3-4cde-8ffc-8ee0ab1b0a84" width="220">
+
+**Product Info**  
+- Approx. price: $97 (from Amazon)  
+- Capacity: 13 Gallons
+- Actuation: Infrared motion sensor, automatic lid  
+- Power: Batteries  
+
+[iTouchless Can](https://www.amazon.com/iTouchless-Pet-Proof-Prevents-Stainless-PetGuard/dp/B07Y2CDS89)<br>
+<img src="https://github.com/user-attachments/assets/2cbc6354-b9c1-497b-9b21-93bb686c4d9f" width="220">
+
+**Product Info**  
+- Approx. price: $74.99 (from Amazon)  
+- Capacity: 13 Gallons
+- Actuation: Infrared motion sensor, automatic lid  
+- Power: Batteries  
+
+[Best Office Can](http://amazon.com/Can-Gallon-Automatic-Garbage-High-Capacity/dp/B018LNFQWE/ref=sr_1_8?dib=eyJ2IjoiMSJ9.37qDhiG8Ui1BT5x4twhFVKvs_zirNSUWUo261hQTZUS2GMaIs7s8V_cVWJzntM5vjI8lAJAB0jaMBfBICzLU9uhDWfSDKq861O9gc-pWOLous5ulPIcIF2gv805u4K8YjxMWFgo8mq_dZrFOEFigaFXRGbDJw08qQwptUV1iEXql1Au7OeBASmo9eEx_4xaYVK5TVK_y6gjSgmhpuHBRgwZYB6cxV3HBjLmcbxR7Zh8hIVsnkWsJgk4NZumj3DUEDpRrV8wz41bIWCG6UgiZVz5A8P1YxtMDiwSLhAWRT0A.xvKwZ5rJw0NkTCn6T0rFZTCoAs7VWkUBLgU6B7Hi9QE&dib_tag=se&keywords=smart+trash+can&qid=1757999102&sr=8-8)<br>
+<img src="https://github.com/user-attachments/assets/c649df0c-4062-4a3a-8005-be32d672ab0f" width="220">
+
+**Product Info**  
+- Approx. price: $52.99 (from Amazon)  
+- Capacity: 13 Gallons
+- Actuation: Infrared motion sensor, automatic lid  
+- Power: Batteries  
+
+[Ninestars Can](http://amazon.com/NINESTARS-DZT-50-28-Automatic-Touchless-Rectangular/dp/B06ZYKBF2Z/ref=sr_1_9?dib=eyJ2IjoiMSJ9.37qDhiG8Ui1BT5x4twhFVKvs_zirNSUWUo261hQTZUS2GMaIs7s8V_cVWJzntM5vjI8lAJAB0jaMBfBICzLU9uhDWfSDKq861O9gc-pWOLous5ulPIcIF2gv805u4K8YjxMWFgo8mq_dZrFOEFigaFXRGbDJw08qQwptUV1iEXql1Au7OeBASmo9eEx_4xaYVK5TVK_y6gjSgmhpuHBRgwZYB6cxV3HBjLmcbxR7Zh8hIVsnkWsJgk4NZumj3DUEDpRrV8wz41bIWCG6UgiZVz5A8P1YxtMDiwSLhAWRT0A.xvKwZ5rJw0NkTCn6T0rFZTCoAs7VWkUBLgU6B7Hi9QE&dib_tag=se&keywords=smart+trash+can&qid=1757999102&sr=8-9)<br>
+<img src="https://github.com/user-attachments/assets/f4ae136c-5fe2-4bfb-90f2-e37fa97e2151" width="220">
+
+**Product Info**  
+- Approx. price: $54.81 (from Amazon)  
+- Capacity: 13 Gallons
+- Actuation: Infrared motion sensor, automatic lid  
+- Power: Batteries
+
+  
 ## Vanpopubs
 
-Positive review:
+**Explicit Needs (from reviews):**
+- (E) The device must open reliably when motion is detected.
+- (E) The device must operate safely without overheating batteries.
+- (E) The device must fit in small spaces.
 
-1. “The trash can is easy to set up, pet-proof, and works quietly with a sensitive sensor. Perfect for keeping curious pets out of the trash!” 
-
-2. “Compact and sturdy design that's easy to place in small spaces. They're perfect for hands-free use and I use them in multiple rooms around my home. Good overall size!”
-
-3. “I’ve been really impressed with these touchless trash cans. The battery lasts a long time and the sensor responds quickly.”
-
-Negative review:
-
-1. “Stopped opening properly after a month. Even with new batteries, the lid barely responds."
-
-2. "The batteries overheated and the unit stopped working. I don’t feel safe using it anymore."
-
-3. "The lid is unreliable and the can is smaller than expected. Not happy with the purchase."
-
-
+**Latent Needs (implied):**
+- (L) The device should feel safe for use around pets.
+- (L) The device should maintain long-term reliability.
+- (L) The device should inspire confidence in daily use.
+---
 
 ## EKO
 
-Positive reviews:
+**Explicit Needs:**
+- (E) The device must seal odors effectively.
+- (E) The device must allow easy removal of trash bags.
+- (E) The device must maintain structural rigidity.
 
-1. “This is the best motion-sensor trash can I’ve used. The sensor works smoothly without random triggers”
-
-2. "After dealing with smaller, frustrating cans, this taller one has been a huge upgrade. It holds a lot and the trash bags come out easily. Worth every penny."
-
-3. "We liked this can so much we bought a second one. It’s simple to load with batteries and bags, opens quietly, and even stands up to our cat sitting on it and triggering the lid."
-
-Negative reviews:
-
-1. "This trash can was a total letdown. It doesn’t seal at all, and the smell spreads through the whole room. It even leaked on my floor because of weird holes in the bottom. Definitely wouldn’t buy this again."
-
-2. “Taking the bag out is a nightmare. Everything gets caught on the rim and rips the bag almost every time. Huge mess. Super annoying."
-
-3. "The lid only closes halfway most of the time, and the bag keeps getting caught on the inside. The metal feels cheap and bends easily. For the price, I expected way better."
-
+**Latent Needs:**
+- (L) The device should feel premium for the price.
+- (L) The device should minimize frustration during bag changes.
+- (L) The device should operate quietly in shared spaces.
+---
 
 
 ## iTouchless
 
-Positive reviews:
-
-1. "I’ve had this trash can for a year and honestly love it. It opens and closes consistently, stays clean, and has worked perfectly since day one. Totally worth it."
-
-2. "Got this for my son who has two curious cats, and it’s been great. The cats haven’t gotten into it once. It’s tall, space-saving, and perfect for small kitchens."
-
-3. "I bought it for the odor control and it really works even with strong smells like cooked veggies. The bag holder is great, and the slow-close lid is a nice touch. All in all, I like it!”
+**Explicit Needs:**
+- (E) The device must respond consistently to motion.
+- (E) The device must securely hold the trash bag.
+- (E) The device must control odor effectively.
 
 
-Negative reviews:
-
-1. "At first, the sensor worked okay, but a few months in, it completely stopped responding. I tried replacing the batteries, but nothing fixed it. Then I found out I had to pay extra just to use the warranty. Super frustrating experience for something that’s supposed to be ‘automatic.’”
-
-2. "Every time we throw something away, the bag ring falls into the trash. It makes a huge mess and is a pain to deal with. I end up having to dig into the trash just to fix it. My kids can’t change the bag without help, and even I hate doing it. Definitely not worth it."
-
-3. "The lid that covers the liner doesn't lift high enough, so changing the bag is awkward. Everything else is decent, but the way it’s designed makes a simple task harder than it should be. It’s disappointing, especially since the product photos make it look easier."
-
+**Latent Needs:**
+- (L) The device should remain reliable for multiple years.
+- (L) The device should allow independent use by children.
+- (L) The device should not require frequent maintenance.
+---
 
 
 ## Best Office
 
-Positive reviews:
+**Explicit Needs:**
+- (E) The device must reliably trigger the lid.
+- (E) The device must use standard trash bags.
+- (E) The device must be lightweight and movable.
 
-1. “This trash can has been great so far. The sensor works every time, it fits standard 13-gallon bags, and it looks sleek. Super easy to move and way more convenient than lifting a lid."
 
-2. "Best trash can I’ve used. Hands-free and hassle-free. Just wave and drop your trash in—so much cleaner and easier."
+**Latent Needs:**
+- (L) The device should feel mechanically dependable.
+- (L) The device should not emit strong manufacturing odors.
+- (L) The device should appear durable upon delivery.
 
-3. “Purchased this trashcan to keep my kitty who sometimes identifies as a dog, out of the trash...
-I'm extremely impressed with its functionality, odor control, and it looks good to boot.”
-
-Negative reviews:
-
-1. "The touch-free feature barely works. Sometimes the lid opens, sometimes it doesn't. Tried changing batteries and cleaning the sensor, but it’s just unreliable. I gave up and use it manually now."
-
-2. "Disappointed from the start. It arrived with a strong plastic smell and felt cheap. The sensor is spotty, the lid doesn't fit right, and it uses different batteries than advertised. Just not worth it."
-
-3. “Not good, When I first bought it, it just repeatedly kept opening on its own and was definitely glitching. Was about to return it when it finally started working better so I kept it. But now, just a couple month after purchasing, it is only opening up about an inch and I have to physically open it up the rest of the way, which completely defeats the purpose. Just super glitchy and unreliable.”
-
+---
 
 ## Ninestars
 
-Positive reviews:
+**Explicit Needs:**
+- (E) The device must hold the lid open during user presence.
+- (E) The device must maintain long battery life.
+- (E) The device must close smoothly.
 
-1. ”The new sensor design that keeps the lid open as long as it detects you is a total game changer. With our old model, the lid would close too quickly and sometimes make a mess. Now, it stays open until I’m finished, which makes using it so much easier and free of frustration.”
+**Latent Needs:**
+- (L) The device should not feel unpredictable.
+- (L) The device should not frustrate users through delayed response.
+- (L) The device should maintain mechanical longevity.
 
-2. “I was skeptical of a trash can needing batteries, but it’s been nearly 13 months on one set of D size batteries. In our house with 10 people, that kind of battery life deserves 5 stars.”
+ ---
+  
+# User Needs
 
-3. “The soft-closing lid is a huge plus. No more clanging noises in my open-concept kitchen, just quiet, smooth operation every time.“
+## Grouped & Ranked User Needs (Summary)
 
+The 100 individual user needs listed below are organized into six ranked priority groups based on importance to safety, reliability, and daily usability:
 
-Negative reviews:
+1. Priority 1 – Reliability & Longevity  
+2. Priority 2 – Hygiene & Odor Control  
+3. Priority 3 – Ease of Use & Convenience  
+4. Priority 4 – Portability & Storage  
+5. Priority 5 – Safety & Comfort  
+6. Priority 6 – Sustainability & Cost  
 
-1. "The lid started failing after just a few months. Sometimes it opens really slowly, other times not at all. Even new batteries didn’t help, and support’s reset instructions didn’t fix anything. It’s just not dependable."
+These groups represent the **ranked hierarchy of user needs** that guide the design of the smart trash system. Reliability and hygiene were ranked highest due to frequent failures and odor complaints found in benchmarked product reviews.
 
-2. "After about a year, the motor on ours started wearing out. The lid now only opens halfway, and it’s clearly struggling. The size and look are fine, but it’s disappointing how quickly the mechanical parts gave out.".
-
-3. "This trash can is honestly infuriating. The sensor reacts way too fast. it snaps shut before you can toss anything in. And if you use it twice in a row, it locks up and won’t open for 20 seconds. I regret not going with a better model."
-
-## User Needs
 
 # Priority 1 – Reliability & Longevity
 **Meta Need:** **The device operates consistently and durably over its entire lifespan.**
@@ -262,3 +287,10 @@ Negative reviews:
 | 98 | Device should not waste liners unnecessarily.                   | Latent         |
 | 99 | Device should last long enough to justify cost.                 | Latent         |
 | 100| Device should be affordable at purchase.                        | Explicit       |
+
+## Evolution of the User Needs and Benchmarking Process
+
+The user needs development began with benchmarking five existing smart trash cans (Vanpopubs, EKO, iTouchless, Best Office, and Ninestars) using verified Amazon customer reviews as the primary Voice of Customer (VOC) source. From these reviews, explicit needs were identified directly from user statements, while latent needs were inferred from repeated complaints, satisfaction patterns, and implied expectations.  
+
+Using this VOC data, a total of 100 initial user needs were generated to fully capture user expectations related to reliability, hygiene, ease of use, portability, safety, and cost. These needs were then grouped into six major priority categories to reduce redundancy and clarify system-level design goals. Finally, the groups were ranked based on safety impact, frequency of appearance in customer feedback, and relevance to the target user community (elderly users, busy parents, and households concerned with cleanliness and pests). This ranked and grouped list of 100 user needs now serves as the foundation for all design decisions in the smart trash system.
+
